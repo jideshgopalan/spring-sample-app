@@ -30,7 +30,7 @@
 		<slf4j.version>1.6.1</slf4j.version>
 		<aspectj.version>1.6.10</aspectj.version>
 		<jodatime.version>1.5.2</jodatime.version>
-		<mysql.connector.version>5.1.16</mysql.connector.version>
+		<mysql.connector.version>8.0.16</mysql.connector.version>
 		<c3p0.version>0.9.1.2</c3p0.version>
 		<querydsl.version>2.2.5</querydsl.version>
 		<log4j.version>1.2.14</log4j.version>
