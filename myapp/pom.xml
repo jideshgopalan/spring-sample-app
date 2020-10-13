@@ -25,7 +25,7 @@
 		<spring.version>3.0.5.RELEASE</spring.version>
 		<spring.security.core.version>3.1.0.RELEASE</spring.security.core.version>
 		<jpa.version>2.0.0</jpa.version>
-		<junit.version>4.8</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<hibernate.version>3.5.6-Final</hibernate.version>
 		<slf4j.version>1.6.1</slf4j.version>
 		<aspectj.version>1.6.10</aspectj.version>
